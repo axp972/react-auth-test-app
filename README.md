@@ -11,4 +11,6 @@ Tokens can be accessed by using endpoint <app_end_point>/.auth/me post login
 Code is added in App.js in this repo to get and display these tokens
 
 ## Sample Output
+
+Notice access token and id token being printed at the bottom of the page
 ![alt text](https://github.com/axp972/react-auth-test-app/blob/master/sampleOutput.png?raw=true)
