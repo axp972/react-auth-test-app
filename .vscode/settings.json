@@ -1,0 +1,5 @@
+{
+  "appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}"],
+  "appService.defaultWebAppToDeploy": "/subscriptions/20c13f9e-fcb9-4209-8e84-97b6555b0969/microsoft.web/sites/subscriptions/20c13f9e-fcb9-4209-8e84-97b6555b0969/resourceGroups/appserv-auth-rg/providers/Microsoft.Web/sites/AppServAuthApp",
+  "appService.deploySubpath": "."
+}
